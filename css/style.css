@@ -1,0 +1,28 @@
+*
+{
+   box-sizing: border-box; 
+}
+
+.box-inline
+{
+    display: inline;
+    height: 100px;
+    width: 100px;
+}
+
+.box-inline div
+{
+    display: inherit;
+    background-color: #2dc52d;
+    padding: 40px;
+    margin: 30px;
+    height: 100px;
+}
+
+.box-block
+{
+    background-color: #43e1fd;
+    margin: 200px;
+    width: 100px;
+    height: 100px;
+}
